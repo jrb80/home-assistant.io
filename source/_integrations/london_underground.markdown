@@ -23,15 +23,16 @@ sensor:
       - Circle
       - District
       - DLR
+      - Elizabeth line
       - Hammersmith & City
       - Jubilee
       - London Overground
       - Metropolitan
       - Northern
       - Piccadilly
-      - TfL Rail
       - Victoria
       - Waterloo & City
+      
 ```
 
 {% configuration %}
